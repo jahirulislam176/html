@@ -1,0 +1,42 @@
+*{
+    margin:0%;   
+}
+#all{
+    width: 350px;
+    padding:10px;
+    margin: auto;
+}
+#inputfield input,select{
+    margin-bottom:10px;
+	width:112%;
+    padding: 30px;
+	padding-top:8px;
+	padding-bottom:8px;
+	border:1px solid black;
+	
+}
+#inputfield input{
+    margin-bottom:10px;
+	width:98%;
+    padding: 23px;
+	padding-top:8px;
+	padding-bottom:8px;
+	border:1px solid black;	
+}
+#inputfield span{
+    width:100%;
+	padding:8px;
+	margin-bottom:10px;
+	display:block;
+
+}
+.signup input,h1{
+    background:orange;
+	margin-bottom:10px;
+    width:100%;
+    padding: 20px;
+}
+.signup input{
+    width:112%;
+    
+}
